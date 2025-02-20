@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+    <photo>
+        <filename>image1</filename>
+        <title>Sunset Beach</title>
+    </photo>
+    <photo>
+        <filename>image2</filename>
+        <title>Mountain Peaks</title>
+    </photo>
+    <photo>
+        <filename>image3</filename>
+        <title>City Lights</title>
+    </photo>
+    <photo>
+        <filename>image4</filename>
+        <title>Forest Trail</title>
+    </photo>
+    <photo>
+        <filename>image5</filename>
+        <title>Desert Dunes</title>
+    </photo>
+</photos>
