@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <photos>
     <photo>
-        <filename>image1</filename>
-        <title>Sunset Beach</title>
+        <file>image1</file>
+        <title>meow</title>
     </photo>
     <photo>
-        <filename>image2</filename>
+        <file>image2</file>
         <title>Mountain Peaks</title>
     </photo>
     <photo>
-        <filename>image3</filename>
+        <file>image3</file>
         <title>City Lights</title>
     </photo>
     <photo>
-        <filename>image4</filename>
+        <file>image4</file>
         <title>Forest Trail</title>
     </photo>
     <photo>
-        <filename>image5</filename>
+        <file>image4</file>
         <title>Desert Dunes</title>
     </photo>
 </photos>
